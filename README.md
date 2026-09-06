@@ -1,6 +1,6 @@
 # Портфолио с фильтрами (events-state / filter)
 
-Домашнее задание к занятию «События и состояние» — обязательная задача.
+Домашнее задание к занятию «События и состояние»
 
 [![CI / Deploy](https://github.com/devlop12x-crypto/REPO_NAME/actions/workflows/deploy.yml/badge.svg)](https://github.com/devlop12x-crypto/REPO_NAME/actions/workflows/deploy.yml)
 

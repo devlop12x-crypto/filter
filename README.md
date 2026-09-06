@@ -2,9 +2,9 @@
 
 Домашнее задание к занятию «События и состояние»
 
-[![CI / Deploy](https://github.com/devlop12x-crypto/REPO_NAME/actions/workflows/deploy.yml/badge.svg)](https://github.com/devlop12x-crypto/REPO_NAME/actions/workflows/deploy.yml)
+[![CI / Deploy](https://github.com/devlop12x-crypto/REPO_NAME/actions/workflows/deploy.yml/badge.svg)](https://github.com/devlop12x-crypto/filter/actions/workflows/deploy.yml)
 
-**Демо:** https://devlop12x-crypto.github.io/REPO_NAME/
+**Демо:** https://devlop12x-crypto.github.io/filter/
 
 > Замените `REPO_NAME` на имя репозитория после его создания — больше нигде
 > имя репозитория не зашито, сборка получает его из GitHub Actions.

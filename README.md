@@ -107,13 +107,3 @@ Prettier и проверку типов, затем собирает проек�
 
 Перед первым пушем в настройках репозитория: **Settings → Pages → Build and
 deployment → Source → GitHub Actions**.
-
-## Критерии оценки — где легко потерять баллы
-
-- `Portfolio` обязан быть **классовым** компонентом, `Toolbar` и `ProjectList` —
-  функциональными.
-- Нельзя использовать state в `Toolbar` / `ProjectList`.
-- Активный фильтр должен быть визуально выделен (класс `toolbar__btn_active`).
-- Пропсы `Toolbar` должны называться ровно `filters`, `selected`,
-  `onSelectFilter`.
-- Порядок кнопок должен совпадать с макетом.
